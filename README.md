@@ -12,7 +12,7 @@
 
 💬 Ask me about my experience with agile software development methodologies and how they have improved team productivity.
 
-📫 How to reach me: Feel free to send me an email at example@example.com or connect with me on LinkedIn: LinkedIn Profile.
+📫 How to reach me: Feel free to send me an email at pasinduhas@gmail.com or connect with me on LinkedIn: [Pasindu Weerasingha](https://www.linkedin.com/in/pasinduweerasingha/).
 
 😄 Pronouns: He/Him.
 
