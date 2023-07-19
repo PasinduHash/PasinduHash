@@ -19,7 +19,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasinduhash&show_icons=true&theme=transparent)
 
- 
 
+## Social Media
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,Instagram,facebook" />
+  </a>
+</p>
+</p>
 
 <br/>
+
