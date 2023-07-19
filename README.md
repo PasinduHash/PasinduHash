@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+Weerasingha!;+I+am+a+Software+Engineer" style="color: blue;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&size=40&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+Weerasingha!;+I+am+a+Software+Engineer" style="color: blue;" />
 </h1>
 
 
@@ -23,7 +23,10 @@
 <h2 align="center">Most used Languages</h2>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduhash&layout=compact)
+<div style="display: flex; justify-content: center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduhash&layout=compact" alt="Top Langs" />
+</div>
+
 
 
 <h2 align="center">Social Media</h2>
