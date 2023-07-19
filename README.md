@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**PasinduHash/PasinduHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasinduhash&show_icons=true&theme=transparent)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduhash&layout=compact)
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,nodejs,spring,html,css,tailwind,github,express,mongodb,hibernate,jquery,mysql,react,angular,maven,gradle,firebase,bootstrap,sql,vscode,git,eclipse,postman,linux,idea" /><br>
+    
+</div>
+
+<br/>
