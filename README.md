@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&size=40&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+Weerasingha!;+I+am+a+Software+Engineer" style="color: blue;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&size=40&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+Weerasingha!;+I+am+a+Quality+Assurance+Analyst" style="color: blue;" />
 </h1>
 
 🔭 I’m currently working on developing a scalable and user-friendly e-commerce platform for a tech startup.
